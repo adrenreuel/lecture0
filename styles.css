@@ -2,3 +2,9 @@ h1 {
   color: #6600ff;
   text-align: center;
 }
+
+p {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
